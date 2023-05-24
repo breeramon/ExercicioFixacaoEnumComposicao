@@ -1,0 +1,6 @@
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\ExercicioFixacaoEnumComp.exe.config
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\ExercicioFixacaoEnumComp.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\ExercicioFixacaoEnumComp.pdb
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\ExercicioFixacaoEnumComp.csprojResolveAssemblyReference.cache
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\ExercicioFixacaoEnumComp.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\ExercicioFixacaoEnumComp.pdb
